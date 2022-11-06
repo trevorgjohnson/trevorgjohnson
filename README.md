@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @trevorgjohnson
+- 👀 I’m interested in the EVM and making code faster
+- 🛠 I'm currently building with Typescript, Solidity, and Rust
+- 📬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/trevorgjohnson/) or just email me at trevorjohnson00@gmail.com
